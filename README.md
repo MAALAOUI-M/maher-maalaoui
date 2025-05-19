@@ -1,8 +1,8 @@
 # CSIRT | Cyber Security Analyst
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- Bachelo., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- Master’s degree., Telecommunications Engineering | Higher School of Communications of Tunis SUP’COM, TUNISIA (_October 2021_)								       		
+- Bachelor’s degree., Computer Science	| Higher Institute of Technological Studies of CHARGUIA, TUNISIA (_July 2017_)	 			        		
 
 ## Work Experience
 **Cyber security Analyst @ TALAN Consulting Tunisia (_July 2022 - Present_)**
@@ -17,7 +17,19 @@
 - Provided technical expertise during significant security incidents, acting as a subject matter expert for containment and remediation efforts.
 - Assisted in the deployment, configuration, and optimization of security tools, including SIEM, EDR, and IDS/IPS platforms.
 - Stayed updated on emerging threats, vulnerabilities, and attack techniques to proactively adapt security monitoring strategies.
-  
+**Penetration Tester @ TALAN Consulting Tunisia (_July 2022 - Present_)**
+- Monitored and analyzed security events from SIEM tools (e.g.,Azure Sentinel, ELK, Splunk), EDR platforms (e.g., Windows Defender ATP, Kaspersky, Trellix, Elastic agent), IDS/IPS, firewalls, and antivirus solutions to detect and respond to potential threats.
+- Conducted in-depth investigations into security incidents, performing root cause analysis and recommending remediation actions to mitigate risks.
+- Collaborated with the Incident Response team to triage, contain, and resolve security breaches, ensuring minimal impact to business operations.
+- Documented and reported security incidents, providing detailed analysis and actionable recommendations to stakeholders.
+- Tuned SIEM rules and alerts to reduce false positives and improve detection accuracy, enhancing operational efficiency based on the Sigma rules.
+- Participated in threat hunting activities to identify advanced persistent threats (APTs) and other malicious activities within the environment.
+- Shared threat intelligence with internal teams to enhance the organization’s security posture and response capabilities.
+- Conducted log source onboarding and normalization to improve visibility into security events across the enterprise.
+- Provided technical expertise during significant security incidents, acting as a subject matter expert for containment and remediation efforts.
+- Assisted in the deployment, configuration, and optimization of security tools, including SIEM, EDR, and IDS/IPS platforms.
+- Stayed updated on emerging threats, vulnerabilities, and attack techniques to proactively adapt security monitoring strategies.
+
 ## Skills
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**

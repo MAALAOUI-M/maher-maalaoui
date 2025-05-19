@@ -17,6 +17,7 @@
 - Provided technical expertise during significant security incidents, acting as a subject matter expert for containment and remediation efforts.
 - Assisted in the deployment, configuration, and optimization of security tools, including SIEM, EDR, and IDS/IPS platforms.
 - Stayed updated on emerging threats, vulnerabilities, and attack techniques to proactively adapt security monitoring strategies.
+
 **Penetration Tester @ TALAN Consulting Tunisia (_July 2022 - Present_)**
 - Monitored and analyzed security events from SIEM tools (e.g.,Azure Sentinel, ELK, Splunk), EDR platforms (e.g., Windows Defender ATP, Kaspersky, Trellix, Elastic agent), IDS/IPS, firewalls, and antivirus solutions to detect and respond to potential threats.
 - Conducted in-depth investigations into security incidents, performing root cause analysis and recommending remediation actions to mitigate risks.
@@ -30,11 +31,35 @@
 - Assisted in the deployment, configuration, and optimization of security tools, including SIEM, EDR, and IDS/IPS platforms.
 - Stayed updated on emerging threats, vulnerabilities, and attack techniques to proactively adapt security monitoring strategies.
 
+**Network Security Engineer @ Standard Sharing Software (_December 2021 - June 2022_)**
+- Reviewed the security architecture, network infrastructures, and equipment.
+- Integrated/Migrated security solutions for systems and networks (firewalls, EDR, XDR, SIEM, WAF, NAC, VPNs, proxies, routers, switches, VLANs, etc.).
+- Provided technical and functional support to clients, addressed their specific needs, and ensured quality follow-up.
+- Transferred knowledge to clients after the installation and migration of solutions, ensuring their autonomy in managing and operating the deployed tools.
+- Prepared HLD and LLD reports.
+
 ## Skills
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Standards & Frameworks:**
+- OWASP, SANS, GDPR, NIST, CIS, ISO 27001/27002/27005, MITRE ATT&CK, SOC CMM, MITRE D3FEND
+  
+**Cloud & Endpoint Security:**
+- Azure (Functions, Sentinel, Virtual Machines, Entra ID), Microsoft Defender 365, Endpoint Protection (Microsoft Defender, Kaspersky Endpoint Security, Elastic agent).
+
+**Cybersecurity Tools:**
+- Nessus Pro, Kaspersky KES, ESXi & vSphere, Docker, SonarQube, Dependency- Track, Cisco, FortiGate, IBM (QRadar, Guardium), Splunk, ELK
+
+**Pentesting & Vulnerability Management:**
+- Web/Mobile Pentesting, Internal/External Pentest, OSINT Tools, Kali Linux, Burp Suite, Nessus Pro, Source Code Review, SCA, SAST/DAST, CVSS.
+
+**SOC & Incident Response:**
+- SIEM, SOAR, Alert Management, Threat Hunting, Incident Response, MITRE ATT&CK TTPs.
+
+**Network:**
+- TCP/IP, NAT/PAT, VLAN, WLAN, ACL, WAN, Inter-VLAN Routing, VPN SSL, DHCP, DNS, Switches, Routers.
+
+**DevSecOps & Automation:**
+- CI/CD Pipelines, DevSecOps Practices, Python, Bash, PowerShell, Ansible.
 
 ## Projects
 - big impact Project 1

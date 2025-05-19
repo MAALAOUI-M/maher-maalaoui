@@ -1,8 +1,8 @@
 # CSIRT | Cyber Security Analyst
 
 ## Education
-- Master’s degree., Telecommunications Engineering | Higher School of Communications of Tunis SUP’COM, TUNISIA (_October 2021_)								       		
-- Bachelor’s degree., Computer Science	| Higher Institute of Technological Studies of CHARGUIA, TUNISIA (_July 2017_)	 			        		
+- Master’s degree, Telecommunications Engineering | Higher School of Communications of Tunis SUP’COM, TUNISIA (_October 2021_)								       		
+- Bachelor’s degree, Computer Science	| Higher Institute of Technological Studies of CHARGUIA, TUNISIA (_July 2017_)	 			        		
 
 ## Work Experience
 **Cyber security Analyst @ TALAN Consulting Tunisia (_July 2022 - Present_)**

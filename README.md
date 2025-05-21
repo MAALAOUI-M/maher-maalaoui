@@ -63,7 +63,8 @@
 
 ## Projects
 - Internal SOC deployment for TALAN Tunisia: Implemented and optimized a Security Onion-based monitoring solution, integrating Suricata, Zeek, and Playbook for real-time threat detection, log analysis, and incident response, enhancing the organization security posture. Technologies [SecurityOnion, ELK, Elastic Agent, Elastic Alert, Misp, OpenCTI, Alienvault OTX, Taranis NG, Wireshark, Any Run, VirusTotal]
-- big impact Project 2
+- OpenVAS GVM Integration with Secnology SOAR : Integrated OpenVAS GVM with Synology SOAR to automate vulnerability scans, streamline report generation, and enable automated download of scan results, enhancing vulnerability management and operational efficiency. Technologies ['SECNOLOGY SOAR', 'OpenVAS GVM', 'Python', 'Powershell scripts', 'Bash scripts'], link : https://www.youtube.com/watch?v=fN-RnT-IO1o
+- Penetration testing for Web/Mobile apllication: Penetration testing of a Web/Mobile application (Android & IOS) involves identifying and exploiting vulnerabilities to assess its security and protect against potential threats. Tools [Kali Linux, Nessus Scanner', 'Osint Framework', 'Leaks', 'Subdomain Enumeration', 'Web discovery', 'Network Scan', 'Port Scan' 'Genymotion', 'Burpsuite', 'MobSF', 'AndroBugs', 'Dependency-Track', 'SonarQube']
 
 ## Certifications
 - Certified Ethical Hacker v12 

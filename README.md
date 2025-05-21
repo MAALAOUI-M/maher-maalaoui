@@ -62,7 +62,7 @@
 - CI/CD Pipelines, DevSecOps Practices, Python, Bash, PowerShell, Ansible.
 
 ## Projects
-- big impact Project 1
+- Internal SOC deployment for TALAN Tunisia: Implemented and optimized a Security Onion-based monitoring solution, integrating Suricata, Zeek, and Playbook for real-time threat detection, log analysis, and incident response, enhancing the organization security posture. Technologies [SecurityOnion, ELK, Elastic Agent, Elastic Alert, Misp, OpenCTI, Alienvault OTX, Taranis NG, Wireshark, Any Run, VirusTotal]
 - big impact Project 2
 
 ## Certifications
